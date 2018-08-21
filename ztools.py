@@ -1,7 +1,6 @@
 import time
 import os,sys
-from karjok.mbf import *
-from karjok.osif import *
+
 
 #####LOGIN#####
 def menu():
