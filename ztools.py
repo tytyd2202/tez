@@ -89,6 +89,7 @@ def mbf():
   os.system('git clone https://github.com/tytyd2202/tez')
   os.system('cd tez')
   os.system('cd karjok')
+  os.system('ls')
   os.system('clear')
   os.system('python2 mbf.py')
       
